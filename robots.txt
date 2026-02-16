@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinchon.8222quick.com/sitemap.xml
+
+
+
